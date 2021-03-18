@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVkEnXqiQsnrSLIzoPlDU9/3OBqwWhN8NwaAzkOGpcbMbx/qLA4gxTEDNn2i8Ym3yWNsNYyMabS5mod2TkNk2Q==",
+  "success": true,
+  "projectFilePath": "/Users/andre/Documents/GitHub/Blockchain.Net/Blockchain/Blockchain.csproj",
+  "expectedPackageFiles": [
+    "/Users/andre/.nuget/packages/embedio/3.4.3/embedio.3.4.3.nupkg.sha512",
+    "/Users/andre/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/andre/.nuget/packages/unosquare.swan.lite/3.0.0/unosquare.swan.lite.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
